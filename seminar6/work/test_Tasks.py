@@ -1,7 +1,7 @@
 from unittest.mock import Mock
 
 import pytest
-from Tasks import Tasks
+from seminar6.work.Tasks import Tasks
 
 
 # Задание 1
